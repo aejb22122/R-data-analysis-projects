@@ -45,3 +45,123 @@ sdfunction <- function (x, removeNA = TRUE) {
       ecart_type  
 }
 
+
+
+# Programming assignment # 1 part 1
+# pollutantmean <- function(directory, pollutant, id = 1:332) {
+        ## 'directory' is a character vector of length 1 indicating
+        ## the location of the CSV files
+        
+        ## 'pollutant' is a character vector of length 1 indicating
+        ## the name of the pollutant for which we will calculate the
+        ## mean; either "sulfate" or "nitrate".
+        
+        ## 'id' is an integer vector indicating the monitor ID numbers
+        ## to be used
+        
+        ## Return the mean of the pollutant across all monitors list
+        ## in the 'id' vector (ignoring NA values)
+# }
+pollutantmean <- function(directory, pollutant, id = 1:332) {
+        data1 = numeric()
+        for (i in id) {
+                read_data = read.csv(paste(directory, "/", formatC(i, width = 3, flag = "0"), 
+                                           ".csv", sep = ""))
+                data1 = c(data1, read_data[[pollutant]])
+        }
+        return(mean(data1, na.rm = TRUE))
+}
+
+
+# read the R script
+# replace the "path/to/file" with the directory you save the file into
+# or you can read the file directly from the web
+source("path/to/file/assessment3.R")
+
+# create a *square* matrix (because `solve` only handles square matrices)
+# create the matrix during the call of makeCacheMatrix()
+a <- makeCacheMatrix( matrix(c(1,2,12,13), nrow = 2, ncol = 2) );
+
+summary(a);
+#>              Length Class  Mode    
+#> setMatrix    1      -none- function
+#> getMatrix    1      -none- function
+#> cacheInverse 1      -none- function
+#> getInverse   1      -none- function
+
+a$getMatrix();
+#>      [,1] [,2]
+#> [1,]    1   12
+#> [2,]    2   13
+
+cacheSolve(a)
+#> [,1]        [,2]
+#> [1,] -1.1818182  1.09090909
+#> [2,]  0.1818182 -0.09090909
+
+# the 2nd time we run the function,we get the cached value
+cacheSolve(a)
+#> getting cached data
+#> [,1]        [,2]
+#> [1,] -1.1818182  1.09090909
+#> [2,]  0.1818182 -0.09090909
+Alternatively, the matrix can be created after calling a makeCacheMatrix without arguments.
+
+# read the R script
+# replace the "path/to/file" with the directory you save the file into
+# or you can read the file directly from the web
+source("path/to/file/assessment3.R")
+
+# call makeCacheMatrix without arguments
+a <- makeCacheMatrix();
+summary(a);
+#>              Length Class  Mode    
+#> setMatrix    1      -none- function
+#> getMatrix    1      -none- function
+#> cacheInverse 1      -none- function
+#> getInverse   1      -none- function
+
+# create a square matrix (reason `solve` only handles square matrices )
+a$setMatrix( matrix(c(1,2,12,13), nrow = 2, ncol = 2) );
+a$getMatrix();
+#>      [,1] [,2]
+#> [1,]    1   12
+#> [2,]    2   13
+
+cacheSolve(a)
+#> [,1]        [,2]
+#> [1,] -1.1818182  1.09090909
+#> [2,]  0.1818182 -0.09090909
+
+# the 2nd time we run the function, we get the cached value
+cacheSolve(a)
+#> getting cached data
+#> [,1]        [,2]
+#> [1,] -1.1818182  1.09090909
+#> [2,]  0.1818182 -0.09090909
+
+# Programming assigment # 3
+# Hospital ranking
+# Reading the outcome data into R via the read.csv function and look at the first few rows.
+outcome <- read.csv("outcome-of-care-measures.csv", colClasses = "character")
+head(outcome)
+
+# Number of colums in the database
+ncol(outcome)
+
+# Idem the number of row in the database
+nrow(outcome)
+
+# To make a simple histogram 
+outcome[, 11] <- as.numeric(outcome[, 11])
+hist(outcome[, 11])
+
+# Best function
+best <- function(state, outcome) {
+## Read outcome data
+## Check that state and outcome are valid
+## Return hospital name in that state with lowest 30-day death
+## rate
+}
+# Print the result
+
