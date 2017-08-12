@@ -1,0 +1,47 @@
+# Premieres fonctions de programmation de R
+Superieur_a <- function(x, n){
++ 		utilise <- x > n
++ 		x[utilise]
+}
+
+
+myfunction <- function(x)
+		{y <- rnorm(100)
+		mean(y)}
+		
+
+# Fonction qui calcule les differentes moyennes des colonnes d'une base de donnees; 
+# ici c'est l'argument "x" :
+
+moyennescolonnes <- function (x) {
+			nc <- ncol(x)
+			moyennes <- numeric(nc)
+			for(i in 1:nc) {
+					moyennes[i] <- mean(x[, i])	
+			}
+			moyennes
+}	
+
+# La meme fonction qui calcule les moyennes sans les "NA" (valeurs manquantes) qu'on va ajouter 
+# comme argument dans la fonction et dans la moyenne a calculer :
+
+moyennescol_sans_na <- function (x, removeNA = TRUE) {
+			nc <- ncol(x)
+			moyennes <- numeric(nc)
+			for(i in 1:nc) {
+					moyennes[i] <- mean(x[, i], na.rm = removeNA)	
+			}
+			moyennes
+}
+
+# On va essayer de faire d'autres fonctions d'analyse de donnees
+# Essayons avec l'ecart type :
+sdfunction <- function (x, removeNA = TRUE) {
+      nc <- ncol (x)
+      ecart_type <- numeric(nc)
+      for(i in 1:nc){
+        ecart_type[i] <- sd(x[, i], na.rm = removeNA) 
+      }
+      ecart_type  
+}
+
