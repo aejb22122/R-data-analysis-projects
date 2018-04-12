@@ -1,0 +1,81 @@
+# ------------------------------------------------------------------------------- 
+# ------- Préliminaires :
+
+# La première chose à faire c'est de définir le "working directory", le fichier où sera contenu
+# le script *.R et le fichier
+setwd("~/OneDrive/Documents/2_Data_analysis_research/R-for-DS/Introduction a statistique avec R/working_directory")
+
+df <- read.csv2("satisfaction_hopital.csv") # Le jeu de données est importé dans R
+str(df) # Structure du "data frame"
+
+# ------- Recodages des variables :
+
+# Faisons un peu de recodage pour rendre les analyses plus lisibles :
+# Recodages de la variable "sexe" en remplaçant 0 par « non » et 1 par « oui » :
+
+sexe <- factor(df$sexe,levels = c(0,1), labels = c("homme","femme"))
+
+# Recodages de la variable profession en remplaçant les huit niveaux par leurs labels :
+profession <- factor(df$profession, levels = c(1, 2, 3, 4, 5, 6, 7, 8), 
+                     labels = c("agriculteur exploitant", "artisan, commerçant, chef d'entreprise", "cadre, profession intellectuelle ou artistique, profession libérale",
+                                                                "profession intermédiaire de l'enseignement, de la santé, du travail social ou de la fonction publique, technicien, contremaître, agent de maîtrise, clergé",
+                                                                "employé", "ouvrier", "étudiant, militaire, chômeur sans avoir jamais travaillé",
+                                                                "autre"))
+# Recodage de la variable "recommander" :
+recommander <- factor(df$recommander, levels = c(0, 1), labels = c("Non", "Oui"))
+
+# Pour vérifications que les codes sont correctes et donnent les informations
+table(sexe)
+table(profession)
+table(recommander)
+
+# ------------------------------------------------------------------------------- 
+#  Q-No 1 
+
+# Les variables catégorielles (ou qualitatives) mesurent juste des « états », 
+# des catégories et n'ont pas d'échelles (comme les variables ordinales qui sont aussi dans le jeu de données).
+# Les variables catégorielles du fichier sont : le sexe, la profession, recommander :
+
+# Les pourcentages de sujets relevant de chacune des modalités
+# Avec une table unidirectionnelle, nous pouvons obtenir les frequences en divisant chaque valeur de table par 
+# le nombre total d'enregistrements dans la table
+
+frequence_sex <- table(sexe)/sum(table(sexe))*100
+frequence_sex
+
+frequence_profession <- table(profession)/sum(table(profession))*100
+frequence_profession
+
+frequence_recommander <- table(recommander)/sum(table(recommander))*100
+frequence_recommander
+
+# ------------------------------------------------------------------------------- 
+#  Q-No 2
+
+# Pour les autres variables, on peut voir de façon synthétique : 
+# la moyenne, médiane, écart-type, minimum, maximum, nombre de données disponibles 
+# (non manquantes), etc à partir de la fonction "summary()" :
+
+summary(df$service)
+summary(df$age)
+summary(df$amelioration.sante)
+summary(df$amelioration.moral)
+summary(df$score.relation)
+summary(df$score.information)
+
+# ------------------------------------------------------------------------------- 
+#  Q-No 3
+
+# Un histogramme du score de relation (score.relation).
+hist(df$score.relation, ylab = "Fréquence", xlab = "Score de relation", 
+     main = "Histogramme du score relatif à la qualité des relations avec le personnel soignant pendant le séjour (score variant de 10 à 40)", 
+     labels = TRUE, col = "gray")
+
+# ------------------------------------------------------------------------------- 
+#  Q-No 4
+
+# Représentation côte à côte la distribution du score de relation 
+# chez les hommes et chez les femmes.
+boxplot(df$score.relation ~ df$sexe, main = "Distribution du score de relation chez les hommes et les femmes", 
+        names = c("Homme", "Femme"), 
+        col = "gray", frame = FALSE)
