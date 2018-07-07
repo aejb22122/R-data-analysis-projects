@@ -1,4 +1,3 @@
 # Data analysis - R
-* Some elements of the data science pipeline;
-* Other tutorials ;
-* Turnning raw data into understanding, insight, and knowledge ;
+* Elements of the data analysis pipeline;
+* Turnning raw data into insight, and knowledge ;
