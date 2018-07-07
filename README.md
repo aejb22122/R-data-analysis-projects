@@ -1,3 +1,3 @@
-# Data analysis - R
+# Data analysis
 * Elements of the data analysis pipeline;
 * Turnning raw data into insight, and knowledge ;
