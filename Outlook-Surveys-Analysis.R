@@ -1,8 +1,8 @@
 # ------------------ Data analysis and interpreation --------------
 
-### Analysis of survey data by Dr Annick Eudes Jean-Baptiste
+### Analysis of survey data by Dr. Annick Eudes Jean-Baptiste
 ### July 2018
-### The 2012 Outlook Surveys, that I am using in my analysis has been conducted by GfK Knowledge Networks 
+### The 2012 Outlook Surveys, that I am using in this analysis has been conducted by GfK Knowledge Networks 
 ### on behalf of the University of California Irvine
 
 # ---- Preliminairies ----
@@ -17,8 +17,7 @@ library(tidyverse)
 library(ggplot2)
 library(plyr)
 
-# ------------------ PART 1. DATA ANALYSIS AND VISUALISATION --------------
-
+# ------------------ PART 1. DATA ANALYSIS AND VISUALISATION -----
 # The research question is :
 # To what extent is the perception of the US situation (W1_G2) associated with the level of income
 # (W1_P20)?
@@ -232,7 +231,7 @@ bar_plot2_bivariate <- ggplot(df, aes(x = W1_P20, y = W1_F1)) +
 bar_plot1_bivariate
 bar_plot2_bivariate
 
-# ------------------ PART 2. DATA ANALYSIS --------------
+# ------------------ PART 2. DATA ANALYSIS ----
 
 # Now that we have a research question, selected the data set and managed our variables
 # of interest and visualized their relationship graphically, we are ready to
@@ -349,7 +348,8 @@ chisq.test(contengency_table)
 cor(x = as.numeric(df$W1_P20), y = df$W1_N1A, method = "pearson", use = "complete.obs")
 
 
-# ------------------ PART 3. REGRESSION MODELING IN PRACTICE --------------
+# ------------------ PART 3. REGRESSION MODELING IN PRACTICE ----
+
 # -------------------------- Section 3.1. Testing a Basic Linear Regression Model
 # Preparation and data management prior to the linear regression:
 # Data preparation and data management :
@@ -443,11 +443,11 @@ regression2 = lm(W1_D1 ~ SocioEcoStatus + PolInt, data = df)
 regression2
 summary(regression2)
 
-par(mfrow = c(2,2))
+par(mfrow = c(2,2))     # plots in a 2 rows, 2 columns setting
 plot(regression2)
 
+# Getting back to 1,1 plot ratio
 par(mfrow = c(1,1))
-
 
 # Sauvegarde du fichier 
 save(df, file = "rda/my_data_analysis.rda")
