@@ -18,3 +18,5 @@ install.packages("reshape2")
 install.packages("ggpubr")
 install.packages("ggmap")
 install.packages("mapproj")
+install.packages("RCurl")
+install.packages("lubridate")   # date formats
