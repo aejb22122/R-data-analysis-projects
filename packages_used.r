@@ -1,5 +1,6 @@
 # Packages used in my analysis
 # to update after an new R version download
+# List last updated oct 2018
 
 install.packages("gglot")
 install.packages("ggplot2")            
@@ -20,3 +21,19 @@ install.packages("ggmap")
 install.packages("mapproj")
 install.packages("RCurl")
 install.packages("lubridate")   # date formats
+
+# IL y a une facon plus "jolie" de le faire les tableaux
+# installer le packet puis la fonction describe
+install.packages("prettyR")
+
+# Calcul de l'ODD-Ratio
+install.packages("Epi")
+
+# Intervalle à 95% d'un pourcentage 
+install.packages("binom")
+library(binom)
+install.packages("gplots", dep=TRUE)
+
+# These packages are used to Map Provincial Map using GADM
+install.packages("maptools")    
+install.packages("raster")
