@@ -35,5 +35,5 @@ library(binom)
 install.packages("gplots", dep=TRUE)
 
 # These packages are used to Map Provincial Map using GADM
-install.packages("maptools")    
+install.packages("maptools", dependencies = TRUE)
 install.packages("raster")
