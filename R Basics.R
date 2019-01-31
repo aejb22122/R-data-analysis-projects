@@ -1,5 +1,3 @@
-# ---------------------------- HarvardX: PH125.1x Data Science: R Basics ----------------------------
-
 # ---------------------------- SECTION 1: R Basics, Functions, and Data Types -----------------------
 
 # Setting the working directory and listing the files in the directory
