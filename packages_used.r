@@ -38,3 +38,12 @@ install.packages("gplots", dep=TRUE)
 # These packages are used to Map Provincial Map using GADM
 install.packages("maptools", dependencies = TRUE)
 install.packages("raster")
+
+# Text analysis
+install.packages("wordcloud")
+install.packages("RColorBrewer")
+install.packages("tm")
+install.packages("SnowballC")
+install.packages("devtools")
+install.packages(c("e1071", "caret", "quanteda", 
+                   "irlba", "randomForest"))
