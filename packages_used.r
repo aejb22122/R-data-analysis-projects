@@ -47,3 +47,5 @@ install.packages("SnowballC")
 install.packages("devtools")
 install.packages(c("e1071", "caret", "quanteda", 
                    "irlba", "randomForest"))
+
+install.packages("tidytext")
