@@ -1,3 +1,4 @@
+
 # Packages used in my analysis
 # to update after an new R version download
 # List last updated oct 2018
@@ -49,3 +50,5 @@ install.packages(c("e1071", "caret", "quanteda",
                    "irlba", "randomForest"))
 
 install.packages("tidytext")
+
+install.packages(c("DT", "knitr"))  
