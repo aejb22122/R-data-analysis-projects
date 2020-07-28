@@ -28,7 +28,7 @@ library(readxl)
 # col4 = "#CC0000"
 
 # Google requires API keys now :
-register_google(key='AIzaSyCMh5ZKF40xIe_7sol_HL-zXsrMCnwG9lE')
+register_google(key='-------')
 
 # Use this website to geocode addresses to lat and long
 # https://www.findlatitudeandlongitude.com/batch-geocode/#.U7IcAI1dWmI
