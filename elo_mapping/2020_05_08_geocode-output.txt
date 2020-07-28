@@ -1,0 +1,390 @@
+"original address",latitude,longitude
+"4480 South Tiffany Drive Mangonia Park 33407",26.753403,-80.08252
+"1900 N. Australian Avenue West Palm Beach 33407",26.73038,-80.065454
+"1725 Echo Lake Drive West Palm Beach 33407",26.748922,-80.083626
+"1060 S. Kirk Road West Palm Beach 33406",26.66156,-80.102987
+"5445 10th North Greenacres 33463",26.631651,-80.128334
+"956 Florida Mango Road West Palm Beach 33406",26.662731,-80.079072
+"6050 Gateway Blvd Boynton Beach 33472",26.543561,-80.140296
+"6050 Gateway Blvd Boynton Beach 33472",26.543561,-80.140296
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"800 Northpoint PKWY.,Suite 204 West Palm Beach 33407",26.762699,-80.095525
+"500 N.W. Avenue L Belle Glade 33430",26.695341,-80.672658
+"800 Northpoint PKWY.,Suite 204 West Palm Beach 33407",26.762699,-80.095525
+"500 N.W. Avenue L Belle Glade 33430",26.695341,-80.672658
+"6301 Summit Boulevard West Palm Beach 33415",26.664477,-80.142506
+"6301 Summit Boulevard West Palm Beach 33415",26.664477,-80.142506
+"501 Martin Avenue Greenacres 33463",26.629879,-80.126022
+"1060 South Kirck Road West Palm Beach 33406",26.66156,-80.102987
+"1060 South Kirck Road West Palm Beach 33406",26.66156,-80.102987
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"7450 State Road 15 US 441 Pahokee 33476",27.188276,-80.7483
+"7450 State Road 15 US 441 Pahokee 33476",27.188276,-80.7483
+"1501 Avenue U Riviera Beach 33404",26.776181,-80.084386
+"1501 Avenue U Riviera Beach 33404",26.776181,-80.084386
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"1501 N Australian Avenue West Palm Beach 33401",26.727689,-80.069503
+"1501 N Australian Avenue West Palm Beach 33401",26.727689,-80.069503
+"1201 SW 3rd Street Boynton Beach 33435",26.517252,-80.070867
+"1201 SW 3rd Street Boynton Beach 33435",26.517252,-80.070867
+"2501 Seacrest Blvd. Delray Beach 33444",26.48858,-80.069542
+"2501 Seacrest Blvd. Delray Beach 33444",26.48858,-80.069542
+"350 S.W. 10th St. Belle Glade 33430",26.683076,-80.678335
+"350 S.W. 10th St. Belle Glade 33430",26.683076,-80.678335
+"695 Auburn Avenue Delray Beach 33444",26.450817,-80.08631
+"5891 S Military Trail #19 Lake Worth 33463",26.590011,-80.115029
+"400 SW 12th Avenue Delray Beach 33444",26.453397,-80.086289
+"400 SW 12th Avenue Delray Beach 33444",26.453397,-80.086289
+"1501 N Australian Avenue West Palm Beach 33401",26.727689,-80.069503
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"39500 Pioneer Park Road Belle Glade 33430",26.669008,-80.679097
+"1501 N Australian Avenue West Palm Beach 33401",26.727689,-80.069503
+"39500 Pioneer Park Road Belle Glade 33430",26.669008,-80.679097
+"1701 Wingfield Street Lake Worth 33460",26.594513,-80.058491
+"410 3rd Street Lake Park 33403",26.796247,-80.060239
+"400 SW 12th Avenue Delray Beach 33444",26.453397,-80.086289
+"716 South K Street Lake Worth 33460",26.606779,-80.054977
+"1060 S. Kirk Road West Palm Beach 33406",26.66156,-80.102987
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"1060 S. Kirk Road West Palm Beach 33406",26.66156,-80.102987
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"5115 47th Place North West Palm Beach 33417",26.748526,-80.118868
+"5115 47th Place North West Palm Beach 33417",26.748526,-80.118868
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"1545 Loxahatchee Drive West Palm Beach 33409",26.700384,-80.091473
+"5115 47th Place North West Palm Beach 33417",26.748526,-80.118868
+"5115 47th Place North West Palm Beach 33417",26.748526,-80.118868
+"3400 Hypoluxo Road Boynton Beach 33436",26.57,-80.095607
+"3400 Hypoluxo Road Boynton Beach 33436",26.57,-80.095607
+"200 S. Loxahatchee Drive Jupiter 33458",26.931701,-80.100773
+"6631 Palmetto Circle South Boca Raton 33436",26.353067,-80.14833
+"7685 South Military Trail Lake Worth 33463",26.561545,-80.116433
+"3000 Parker Avenue West Palm Beach 33405",26.68688,-80.061621
+"3000 Parker Avenue West Palm Beach 33405",26.68688,-80.061621
+"5801 Parker Avenue West Palm Beach 33405",26.66359,-80.065158
+"5801 Parker Avenue West Palm Beach 33405",26.66359,-80.065158
+"200 S. Loxahatchee Drive Jupiter 33458",26.931701,-80.100773
+"2222 Spruce Avenue West Palm Beach 33407",26.733782,-80.05395
+"2222 Spruce Avenue West Palm Beach 33407",26.733782,-80.05395
+"5300 Haverhill Road Greenacres 33463",26.598382,-80.121149
+"5300 Haverhill Road Greenacres 33463",26.598382,-80.121149
+"400 SW 12th Avenue Delray Beach 33444",26.453397,-80.086289
+"16020 Okeechobee Boulevard Loxahatchee 33470",26.70453,-80.300365
+"16020 Okeechobee Boulevard Loxahatchee 33470",26.70453,-80.300365
+"1220 15th Street West Palm Beach 33401",26.727087,-80.065279
+"1220 15th Street West Palm Beach 33401",26.727087,-80.065279
+"7882 S. Military Trail Boynton Beach 33463",26.558166,-80.113458
+"7882 S. Military Trail Boynton Beach 33463",26.558166,-80.113458
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"3400 Hypoluxo Road Boynton Beach 33436",26.57,-80.095607
+"410 North M Street Lake Worth 33460",26.62073,-80.052925
+"101 West 17th street Riviera Beach 33404",26.77686,-80.056919
+"7450 State Road 15 US 441 Pahokee 33476",27.188276,-80.7483
+"239 Cocoanut Row Palm Beach 33480",26.706751,-80.040481
+"239 Cocoanut Row Palm Beach 33480",26.706751,-80.040481
+"401 Anchorage Drive North Palm Beach 33408",26.811228,-80.059352
+"401 Anchorage Drive North Palm Beach 33408",26.811228,-80.059352
+"1545 Loxahatchee Drive West Palm Beach 33409",26.700384,-80.091473
+"3400 Hypoluxo Road Boynton Beach 33436",26.57,-80.095607
+"5555 Purdy Lane West Palm Beach 33415",26.645945,-80.130002
+"5555 Purdy Lane West Palm Beach 33415",26.645945,-80.130002
+"2926 Lone Pine Road Palm Beach Gardens 33410",26.85393,-80.077304
+"2926 Lone Pine Road Palm Beach Gardens 33410",26.85393,-80.077304
+"1545 Loxahatchee Drive West Palm Beach 33409",26.700384,-80.091473
+"1545 Loxahatchee Drive West Palm Beach 33409",26.700384,-80.091473
+"954 44th Street West Palm Beach 33407",26.752251,-80.06517
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"1725 Echo Lake Drive West Palm Beach 33407",26.748922,-80.083626
+"239 Cocoanut Row Palm Beach 33480",26.706751,-80.040481
+"239 Cocoanut Row Palm Beach 33480",26.706751,-80.040481
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"3015 S. Congress Avenue Boynton Beach 33426",26.500252,-80.092141
+"3015 S. Congress Avenue Boynton Beach 33426",26.500252,-80.092141
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"10130 185th Street South Boca Raton 33498",26.400301,-80.206487
+"10130 185th Street South Boca Raton 33498",26.400301,-80.206487
+"5959 140th Ave. N Royal Palm Beach 33411",26.762994,-80.266382
+"5959 140th Ave. N Royal Palm Beach 33411",26.762994,-80.266382
+"555 U.S. Highway One North Palm Beach 33408",26.813031,-80.057742
+"555 U.S. Highway One North Palm Beach 33408",26.813031,-80.057742
+"1709 W. 30th Street Riviera Beach 33404",26.787186,-80.083726
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"239 Cocoanut Row Palm Beach 33480",26.706751,-80.040481
+"2926 Lone Pine Road Palm Beach Gardens 33410",26.85393,-80.077304
+"824 North K Street Lake Worth 33460-2629",26.625693,-80.054278
+"1160 Avenue N Riviera Beach 33404",26.772595,-80.073127
+"824 North K Street Lake Worth 33460-2629",26.625693,-80.054278
+"1160 Avenue N Riviera Beach 33404",26.772595,-80.073127
+"239 Cocoanut Row Palm Beach 33480",26.706751,-80.040481
+"2926 Lone Pine Road Palm Beach Gardens 33410",26.85393,-80.077304
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"4200 Purdy Lane Palm Springs 33461",26.642585,-80.107493
+"4200 Purdy Lane Palm Springs 33461",26.642585,-80.107493
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"6050 Gateway Blvd Boynton Beach 33472",26.543561,-80.140296
+"6050 Gateway Blvd Boynton Beach 33472",26.543561,-80.140296
+"5350 Stacy Street West Palm Beach 33417",26.696848,-80.125324
+"400 SW 12th Avenue Delray Beach 33444",26.453397,-80.086289
+"1060 S. Kirk Road West Palm Beach 33406",26.66156,-80.102987
+"150 School House Rd Jupiter 33458",26.887506,-80.097954
+"824 North K Street Lake Worth 33460-2629",26.625693,-80.054278
+"7101 South Olive Avenue West Palm Beach 33405",26.652594,-80.053178
+"7101 South Olive Avenue West Palm Beach 33405",26.652594,-80.053178
+"5561 Hypoluxo Road Lake Worth 33463",26.572885,-80.13034
+"5561 Hypoluxo Road Lake Worth 33463",26.572885,-80.13034
+"7882 S. Military Trail Boynton Beach 33463",26.558166,-80.113458
+"410 3rd St Lake Park 33403",26.796247,-80.060239
+"7882 S. Military Trail Boynton Beach 33463",26.558166,-80.113458
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"410 3rd St Lake Park 33403",26.796247,-80.060239
+"550 Miner Road Boynton Beach 33435",26.555848,-80.061181
+"6201 Morikami Park Road Delray Beach 33484",26.426973,-80.143479
+"550 Miner Road Boynton Beach 33435",26.555848,-80.061181
+"6701 180th Avenue North Loxahatchee 33470",26.77417,-80.328535
+"6701 180th Avenue North Loxahatchee 33470",26.77417,-80.328535
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"1889 Palm Beach Lakes Boulevard West Palm Beach 33409",26.718514,-80.091118
+"560 East Main Place Pahokee 33476",26.826149,-80.658789
+"560 East Main Place Pahokee 33476",26.826149,-80.658789
+"7882 S. Military Trail Boynton Beach 33463",26.558166,-80.113458
+"7882 S. Military Trail Boynton Beach 33463",26.558166,-80.113458
+"5047 Summit Boulevard West Palm Beach 33415",26.663455,-80.121616
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"824 North K Street Lake Worth 33460-2629",26.625693,-80.054278
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"5047 Summit Boulevard West Palm Beach 33415",26.663455,-80.121616
+"824 North K Street Lake Worth 33460-2629",26.625693,-80.054278
+"4480 South Tiffany Drive Mangonia Park 33407",26.753403,-80.08252
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"4480 South Tiffany Drive Mangonia Park 33407",26.753403,-80.08252
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"6301 Summit Boulevard West Palm Beach 33415",26.664477,-80.142506
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"6301 Summit Boulevard West Palm Beach 33415",26.664477,-80.142506
+"410 3rd St Lake Park 33403",26.796247,-80.060239
+"150 School House Rd Jupiter 33458",26.887506,-80.097954
+"410 3rd St Lake Park 33403",26.796247,-80.060239
+"7101 South Olive Avenue West Palm Beach 33405",26.652594,-80.053178
+"7101 South Olive Avenue West Palm Beach 33405",26.652594,-80.053178
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"2501 Seacrest Boulevard Delray Beach 33444",26.48858,-80.069542
+"2501 Seacrest Boulevard Delray Beach 33444",26.48858,-80.069542
+"2531 President Barack Obama Hwy Riviera Beach 33404",26.78312,-80.067527
+"2531 President Barack Obama Hwy Riviera Beach 33404",26.78312,-80.067527
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"800 11th St West Palm Beach 33401",26.723629,-80.059414
+"650 Royal Palm Beach Boulevard, Suite 400 Royal Palm Beach 33411",26.682714,-80.228804
+"133 Park Road North Royal Palm Beach 33411",26.6936,-80.236488
+"133 Park Road North Royal Palm Beach 33411",26.6936,-80.236488
+"650 Royal Palm Beach Boulevard, Suite 400 Royal Palm Beach 33411",26.682714,-80.228804
+"2900 Australian Avenue West Palm Beach 33407",26.739931,-80.068466
+"2900 Australian Avenue West Palm Beach 33407",26.739931,-80.068466
+"1718 South Douglas Street Lake Worth 33460",26.59466,-80.055719
+"910 West Ilex Drive Lake Park 33403",26.800641,-80.071521
+"1718 South Douglas Street Lake Worth 33460",26.59466,-80.055719
+"910 West Ilex Drive Lake Park 33403",26.800641,-80.071521
+"2501 Seacrest Boulevard Delray Beach 33444",26.48858,-80.069542
+"1501 Avenue U Riviera Beach 33404",26.776181,-80.084386
+"5801 Parker Avenue West Palm Beach 33405",26.66359,-80.065158
+"5801 Parker Avenue West Palm Beach 33405",26.66359,-80.065158
+"1501 Avenue U Riviera Beach 33404",26.776181,-80.084386
+"1000 Crestwood Blvd. N Royal Palm Beach 33411",26.729357,-80.229664
+"1000 Crestwood Blvd. N Royal Palm Beach 33411",26.729357,-80.229664
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"5100 Melaleuca Lane Greenacres 33463",26.606241,-80.123647
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"410 3rd Street Lake Park 33403",26.796247,-80.060239
+"410 3rd Street Lake Park 33403",26.796247,-80.060239
+"5891 S Military Trail #19 Lake Worth 33463",26.590011,-80.115029
+"5891 S Military Trail #19 Lake Worth 33463",26.590011,-80.115029
+"5100 Melaleuca Lane Greenacres 33463",26.606241,-80.123647
+"5445 10th North Greenacres 33463",26.631651,-80.128334
+"5445 10th North Greenacres 33463",26.631651,-80.128334
+"1900 N. Australian Avenue West Palm Beach 33407",26.73038,-80.065454
+"1900 N. Australian Avenue West Palm Beach 33407",26.73038,-80.065454
+"1160 Avenue N Riviera Beach 33404",26.772595,-80.073127
+"200 S. Loxahatchee Drive Jupiter 33458",26.931701,-80.100773
+"1200 North Dixie Highway Lake Worth 33460",26.630185,-80.056592
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"1200 North Dixie Highway Lake Worth 33460",26.630185,-80.056592
+"360 East Main Street Pahokee 33476",26.824603,-80.6623
+"200 S. Loxahatchee Drive Jupiter 33458",26.931701,-80.100773
+"360 East Main Street Pahokee 33476",26.824603,-80.6623
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"3000 Parker Avenue West Palm Beach 33405",26.68688,-80.061621
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"3000 Parker Avenue West Palm Beach 33405",26.68688,-80.061621
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"8330 North Military Trail Palm Beach Gardens 33410",26.799108,-80.105733
+"3015 S. Congress Avenue Boynton Beach 33426",26.500252,-80.092141
+"5115 47th Place North West Palm Beach 33417",26.748526,-80.118868
+"5115 47th Place North West Palm Beach 33417",26.748526,-80.118868
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"8330 North Military Trail Palm Beach Gardens 33410",26.799108,-80.105733
+"9600 South Military Trail Boynton Beach 33436",26.532957,-80.122096
+"3015 S. Congress Avenue Boynton Beach 33426",26.500252,-80.092141
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"9600 South Military Trail Boynton Beach 33436",26.532957,-80.122096
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"4200 Purdy Lane Palm Springs 33461",26.642585,-80.107493
+"4200 Purdy Lane Palm Springs 33461",26.642585,-80.107493
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"1160 10th Avenue North Riviera Beach 33445",26.771283,-80.070728
+"1900 N. Australian Avenue West Palm Beach 33407",26.73038,-80.065454
+"1900 N. Australian Avenue West Palm Beach 33407",26.73038,-80.065454
+"5801 Parker Avenue West Palm Beach 33405",26.66359,-80.065158
+"5801 Parker Avenue West Palm Beach 33405",26.66359,-80.065158
+"1057 West 6th Street Riviera Beach 33404",26.767379,-80.069969
+"430 N G St Lake Worth 33460",26.621417,-80.058949
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"910 West Ilex Drive Lake Park 33403",26.800641,-80.071521
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"910 West Ilex Drive Lake Park 33403",26.800641,-80.071521
+"3400 Hypoluxo Road Boynton Beach 33436",26.57,-80.095607
+"3400 Hypoluxo Road Boynton Beach 33436",26.57,-80.095607
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"1160 10th Avenue North Riviera Beach 33445",26.771283,-80.070728
+"1160 10th Avenue North Riviera Beach 33445",26.771283,-80.070728
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"16020 Okeechobee Boulevard Loxahatchee 33470",26.70453,-80.300365
+"16020 Okeechobee Boulevard Loxahatchee 33470",26.70453,-80.300365
+"401 Anchorage Drive North Palm Beach 33408",26.811228,-80.059352
+"401 Anchorage Drive North Palm Beach 33408",26.811228,-80.059352
+"401 Anchorage Drive North Palm Beach 33408",26.811228,-80.059352
+"1220 15th Street West Palm Beach 33401",26.727087,-80.065279
+"1220 15th Street West Palm Beach 33401",26.727087,-80.065279
+"1889 Palm Beach Lakes Boulevard West Palm Beach 33409",26.718514,-80.091118
+"1718 South Douglas Street Lake Worth 33460",26.59466,-80.055719
+"8330 N. Military Trail Palm Beach Gardens 33410",26.799108,-80.105733
+"501 Martin Avenue Greenacres 33463",26.629879,-80.126022
+"501 Martin Avenue Greenacres 33463",26.629879,-80.126022
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"3000 Parker Avenue West Palm Beach 33405",26.68688,-80.061621
+"1501 Avenue U Riviera Beach 33404",26.776181,-80.084386
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"3000 Parker Avenue West Palm Beach 33405",26.68688,-80.061621
+"710 West Ocean Avenue Lantana 33462",26.584039,-80.059945
+"1000 S.E. Avenue G Belle Glade 33430",26.676554,-80.659189
+"1501 Avenue U Riviera Beach 33404",26.776181,-80.084386
+"1000 S.E. Avenue G Belle Glade 33430",26.676554,-80.659189
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"550 Miner Road Boynton Beach 33435",26.555848,-80.061181
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"550 Miner Road Boynton Beach 33435",26.555848,-80.061181
+"1545 Loxahatchee Drive West Palm Beach 33409",26.700384,-80.091473
+"1545 Loxahatchee Drive West Palm Beach 33409",26.700384,-80.091473
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"7685 South Military Trail Lake Worth 33463",26.561545,-80.116433
+"401 Anchorage Drive North Palm Beach 33408",26.811228,-80.059352
+"1160 10th Avenue North Riviera Beach 33445",26.771283,-80.070728
+"1160 10th Avenue North Riviera Beach 33445",26.771283,-80.070728
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"6701 180th Avenue North Loxahatchee 33470",26.77417,-80.328535
+"6500 Lawrence Road Lantana 33461",26.57983,-80.105144
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"101 Davis Road Palm Springs 33461",26.629947,-80.097847
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"501 Martin Avenue Greenacres 33463",26.629879,-80.126022
+"501 Martin Avenue Greenacres 33463",26.629879,-80.126022
+"716 South K Street Lake Worth 33460",26.606779,-80.054977
+"716 South K Street Lake Worth 33460",26.606779,-80.054977
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"1203 N. Seacrest Boulevard Boynton Beach 33435",26.537375,-80.065192
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"6300 Seminole Drive Lantana 33462",26.582452,-80.100009
+"410 North M Street Lake Worth 33460",26.62073,-80.052925
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"400 SW 10th Street Delray Beach 33444",26.44657,-80.077509
+"716 South K Street Lake Worth 33460",26.606779,-80.054977
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"716 South K Street Lake Worth 33460",26.606779,-80.054977
+"6000 Oak Royal Drive Lake Worth 33463",26.591039,-80.139406
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"1160 10th Avenue North Riviera Beach 33445",26.771283,-80.070728
+"1160 10th Avenue North Riviera Beach 33445",26.771283,-80.070728
+"550 NW 4th Avenue Boynton Beach 33435",26.529998,-80.071387
+"1220 15th Street West Palm Beach 33401",26.727087,-80.065279
+"1220 15th Street West Palm Beach 33401",26.727087,-80.065279
+"6601 Constitution Way Greenacres 33413",26.63335,-80.151684
+"6050 Gateway Blvd Boynton Beach 33472",26.543561,-80.140296
+"6050 Gateway Blvd Boynton Beach 33472",26.543561,-80.140296
+"6601 Constitution Way Greenacres 33413",26.63335,-80.151684
+"824 North K Street Lake Worth 33460-2629",26.625693,-80.054278
+"1545 Loxahatchee Dr West Palm Beach 33409",26.700384,-80.091473
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"4075 Willow Pond Road West Palm Beach 33417",26.737274,-80.115639
+"1545 Loxahatchee Dr West Palm Beach 33409",26.700384,-80.091473
+"5300 Haverhill Road Greenacres 33463",26.598382,-80.121149
+"5300 Haverhill Road Greenacres 33463",26.598382,-80.121149
+"8400 SW 8th Street Boca Raton 33433",26.338314,-80.17748
+"500 Highland Avenue Lake Worth 33460",26.62178,-80.06594
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4050 Old Germantown Road Delray Beach 33445",26.43555,-80.114592
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"4111 N. Terrace Drive West Palm Beach 33407",26.750147,-80.063662
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"405 Jackson Ave. Greenacres 33463",26.627507,-80.122652
+"410 3rd St Lake Park 33403",26.796247,-80.060239
+"410 3rd St Lake Park 33403",26.796247,-80.060239
+"6680 Dillman Road Greenacres 33413",26.660646,-80.151964
+"2300 High Ridge Road, Suite 330 Boynton Beach 33426",26.55178,-80.071728
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"4200 Purdy Lane Palm Springs 33461",26.642585,-80.107493
+"4200 Purdy Lane Palm Springs 33461",26.642585,-80.107493
+"23080-B Sandalfoot Plaza Drive Boca Raton 33428",26.333415,-80.201625
+"1545 Loxahatchee Dr West Palm Beach 33409",26.700384,-80.091473
+"239 Cocoanut Row Palm Beach 33480",26.706751,-80.040481
+"1545 Loxahatchee Dr West Palm Beach 33409",26.700384,-80.091473
+"1712 2nd Avenue North Lake Worth 33460",26.618503,-80.065497
